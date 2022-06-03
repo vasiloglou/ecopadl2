@@ -36,14 +36,13 @@ Time (EST)  | Title  | Presenter | Slides | Video |
 9:00am to 10:00am| Keynote 1 | TBD | x | x |
 10:00am to 10:45am | Contributed Talks | TBD |x | x |
 10:45am to 11:15am | BREAK | | | |
-11:15am to 12:15pm |Panel:(Industry):  Urgent and difficult challenges in data marketplaces and data economics
- | TBD | x | x |
+11:15am to 12:15pm |Panel (Industry):  Urgent and difficult challenges in data marketplaces and data economics | TBD | x | x |
 12:15pm to 1:15 pm | Lunch | | |
 1:15pm to 2:15pm | Keynote 2| TBD | x | x |
 2:15pm to 3:15pm | Brainstorming| x | x |
 3:15pm to 3:30pm | BREAK | x | x |
 3:30pm to 4:00pm | Invited talk | TBD | x | x |
-4:00pm to 5:00pm | Panel: (Academia): Exciting opportunities for research and development in the next 3-5 years.| TBD | x | x |
+4:00pm to 5:00pm | Panel (Academia): Exciting opportunities for research and development in the next 3-5 years.| TBD | x | x |
 5:00pm to 5:05pm | Closing Remarks | Organizers | Slides | Video|
 
 
