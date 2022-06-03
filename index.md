@@ -33,20 +33,20 @@ This workshop aspires to bring together researchers from the fields (and subfiel
 
 Time (EST)  | Title  | Presenter | Slides | Video |
 ----------- | ------ | --------- | ------ | ----- |
-10:00am - 10:15am | [Designing Differentially Private Estimators in High Dimensions](https://drive.google.com/file/d/1cQhjxk96e0erVyo1ofOHDzpeh1OTgpyx/view?usp=sharing) | 	Aditya Dhar | [Slides](https://drive.google.com/file/d/1F5CBS5lnjLIkNfju2LZ-s_kl0Lnw39P8/view?usp=sharing) | [Video](https://drive.google.com/file/d/17lgvSk9D6awYRzSbhuhaKo8-7hiI10WG/view?usp=sharing)|
-10:15am - 10:30am | [Really Useful Synthetic Data -- A Framework to Evaluate the Quality of Differentially Private Synthetic Data](https://drive.google.com/file/d/1dwUptJjiWfKtEx2NZmEjz38GGR6UIbXH/view?usp=sharing) | 	Christian Arnold | [Slides](https://drive.google.com/file/d/1IN4vmr1qEeGHc1HAlPLtHdG1sKSxH7U3/view?usp=sharing) | [Video](https://drive.google.com/file/d/1IB7J1IM6LdQDjBcVQq-30R3OZqtchv7c/view?usp=sharing)|
-10:30am - 10:45am |	[Generating Privacy-Preserving Synthetic Tabular Data Using Oblivious Variational Autoencoders](https://drive.google.com/file/d/1R6S59Nr0saOZuhr_mrk-_6DvZeOZ7Xdz/view?usp=sharing)  |	L Vivek Harsha | [Slides](https://drive.google.com/file/d/1NkBlmopsOBrdr9hEY74rsPXmvm1YLM-a/view?usp=sharing) | [Video](https://drive.google.com/file/d/1-8HPBkEsQNLt2maImxhqgpM0d2lH1BMM/view?usp=sharing) |
-10:45am - 11:00am | BREAK |
-11:00am - 12:00pm |   Buying data over time  | [Nicole Immorlica](http://www.immorlica.com/) | Slides | Video |
-12:00pm - 12:15pm   | [Optimal Query Complexity of Secure Stochastic Convex Optimization](https://drive.google.com/file/d/16ZQbfEawSpy2Zr_rCPDw5tDdWyB5K7c9/view?usp=sharing)  | Wei Tang | [Slides](https://drive.google.com/file/d/11jaDtYRqUkcpQ6QnxWTqVTBKmcGEpRTA/view?usp=sharing) | [Video](https://drive.google.com/file/d/1hWo0UKmMwl5hy_uqNOgUlVDEhKI5iKSP/view?usp=sharing) | 
-12:15pm - 12:30pm | [On Detecting Data Pollution Attacks On Recommender Systems Using Sequential GANs](https://drive.google.com/file/d/1b9iJHLq4g-aCRqdGocnqdx0x7p0TzPXE/view?usp=sharing) | Behzad Shahrasbi | [Slides](https://drive.google.com/file/d/1eCQch-mRDUWAz5X0rA5z7Usau9IP_3hZ/view?usp=sharing) | [Video](https://drive.google.com/file/d/1di4RAGC9PR_hejJK3N8UMrwr_ZqyaRTy/view?usp=sharing) |
-12:30pm - 12:45pm | 	[Efficient Privacy-Preserving Stochastic Nonconvex Optimization](https://drive.google.com/file/d/1FfGuUOnVgCCOUsBh80_jj67FW9A4HrVt/view?usp=sharing) | 	Lingxiao Wang | [Slides](https://drive.google.com/file/d/15SHSW27YFDr7lo5V7pdLseSFuyfNXO7D/view?usp=sharing) | [Video](https://drive.google.com/file/d/1zH9z14p9aZN8oqySgOg77NEVaFpMLuZg/view?usp=sharing)|
-12:45pm - 1:30pm  | BREAK |
-1:30pm - 1:45pm   | [European Privacy Law and Global Markets for Data](https://drive.google.com/file/d/1xNg6w_RbTVk5rdkW9obbYMUBa74sio4c/view?usp=sharing) | Christian Peukert | [Slides](https://drive.google.com/file/d/1VNLhw4hudcAzdlY768qFOsEVp64aj3kr/view?usp=sharing) | [Video](https://drive.google.com/file/d/1ntKiRoA5MVhKyj5ahqLJkH-0l10i2qAo/view?usp=sharing) |
-1:45pm - 2:00pm   | [To Call or not to Call? Using ML Prediction APIs more Accurately and Economically](https://drive.google.com/file/d/1fmCr50IvAMPOMGLwUMZkDzvywEzcsSlW/view?usp=sharing) | Lingjiao Chen | Slides | [Video](https://drive.google.com/file/d/1oOJ9Tu7HEfh5XzdzLcNe7c6Z_Asm_8gG/view?usp=sharing) |
-2:00pm - 2:15pm | [Do Markets Make Sense for Personal Data?](https://drive.google.com/file/d/1JzbPrvW9ELfkATS3DiaAzWkCf6fLDFqx/view?usp=sharing)  | Aileen Nielsen | [Slides](https://drive.google.com/file/d/1OQQnNBDDVqKhr_ZHRoRYXCgDizSGEqeR/view?usp=sharing) | [Video](https://drive.google.com/file/d/1dcgr7JwWOjkv3nmDGh4bSUUauW4mmO0M/view?usp=sharing) |
-2:15pm - 2:30:pm | BREAK| 
-2:30pm - 3:30pm | Intersectional Social Data | [Glen Weyl](http://glenweyl.com/) | [Slides](https://drive.google.com/file/d/1n2EivlulQvKPVbxAuit51M0GgZvpeERs/view?usp=sharing) | [Video](https://drive.google.com/file/d/1ytiGdbcTRk91JCN1WKHGWdyA8dNiltdC/view?usp=sharing) |
+9:00am to 10:00am| Keynote 1 | TBD | x | x |
+10:00am to 10:45am | Contributed Talks | TBD |x | x |
+10:45am to 11:15am | BREAK | | | |
+11:15am to 12:15pm |Panel:(Industry):  Urgent and difficult challenges in data marketplaces and data economics
+ | TBD | x | x |
+12:15pm to 1:15 pm | Lunch | | |
+1:15pm to 2:15pm | Keynote 2| TBD | x | x |
+2:15pm to 3:15pm | Brainstorming| x | x |
+3:15pm to 3:30pm | BREAK | x | x |
+3:30pm to 4:00pm | Invited talk | TBD | x | x |
+4:00pm to 5:00pm | Panel: (Academia): Exciting opportunities for research and development in the next 3-5 years.| TBD | x | x |
+5:00pm to 5:05pm | Closing Remarks | Organizers | Slides | Video|
+
+
 
 ## Call for papers ##
 
@@ -84,7 +84,7 @@ All questions about submissions should be emailed to [ecopadl2022@googlegroups.c
 
 ### Organizers ####
 - [Nikolaos Vasiloglou](https://www.linkedin.com/in/vasiloglou) (relationalAI)
-- [Xiaohui Yu]](http://www.yorku.ca/xhyu) 	(York Univesity)
+- [Xiaohui Yu](http://www.yorku.ca/xhyu) 	(York Univesity)
 - [Jian Pei](https://www.cs.sfu.ca/~jpei)	(Simon Fraser University)
 - [Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/)  (Peking University)  		
 - [Hanlin Li](https://sites.northwestern.edu/lihanlin/)	(Northwestern University)
