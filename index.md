@@ -48,6 +48,24 @@ Time (EST)  | Title  | Presenter | Slides | Video |
 
 
 ## Call for papers ##
+We welcome submissions presenting interesting and initial ideas that address fundamental research and technical issues in this challenging area and especially encourage reports on system level research and interdisciplinary practice related to data management and data science in data marketplaces. We also welcome new visions and critical reviews on marketplaces. 
+
+TOPICS OF INTEREST
+Topics of interest include, but not limited to:
+
+- Data valuation 
+- Data and Machine Learning Model pricing 
+- Data acquisition
+- Data quality measurement
+- Data utility
+- Arbitrage and prevention
+- Game-theoretic approaches to data markets
+- Privacy issues in data trading
+- System support for data trading
+- Data labor
+- Crowdsourcing
+- Pricing of machine learning models
+- Law and policy
 
 **Important Dates**
 
