@@ -1,8 +1,33 @@
 
 # About the workshop #
 
-Although data is considered to be the “new oil”, it is very hard to be priced. Raw use of data has been invaluable in several sectors such as advertising, healthcare, etc, but often in violation of people’s privacy. Labeled data has also been extremely valuable for the training of machine learning models (driverless car industry). This is also indicated by the growth of annotation companies such as Figure8 and Scale.AI, especially in the image space. Yet, it is not clear what is the right pricing for data workers who annotate the data or the individuals who contribute their personal data while using digital services. In the latter case, it is very unclear how the value of the services offered is compared to the private data exchanged.  While the first data marketplaces have appeared, such as AWS, Narrative.io, nitrogen.ai, etc, they suffer from a lack of good pricing models. They also fail to maintain the right of the data owners to define how their own data will be used. There have been numerous suggestions for sharing data while maintaining privacy, such as training generative models that preserve original data statistics.
-While there are several proposals for solving the technical part of data markets and fair pricing, it is necessary to consider other aspects that are covered by researchers in the area of economics and law. 
+Although data is considered to be the “new oil”, pricing data is an exceptionally difficult problem, and for a variety of reasons. For starters, there are economic and legal challenges to pricing, trading, and assessing data. Raw use of data has been invaluable in several sectors such as advertising, healthcare, etc, but often in violation of people’s privacy, which results in ongoing legal uncertainty and challenges. Labeled data has also been extremely valuable for the training of machine learning models (driverless car industry). The resulting importance of data labeling is evidenced by the growth of annotation companies such as Figure8 and Scale.AI, but this poses additional legal and economic questions. What is the fair value to pay those who annotate such data? What about those whose data is annotated? The common economic model of exchanging data (or attention) for services, sometimes known as surveillance capitalism or the attention economy, also raises questions about whether the services provided to users for “free” in exchange for their data and attention are commensurate with the economic value captured from the personal data involved in such exchanges. 
+Data marketplaces have been proposed and implemented to formally address some of these concerns with new ways of doing business (such as AWS, Snowflake,Narrative.io, nitrogen.ai), but these marketplaces suffer from a lack of good pricing models. They also fail to maintain the right of the data owners to define how their own data will be used. There have been numerous suggestions for sharing data while maintaining privacy, such as data unions, privacy preserving digital twins, and federated learning, but such new proposals create new legal, economic, and technical challenges.
+Likewise, it is technically challenging to define the value of data. While there are several proposals for solving the technical part of data markets and fair pricing, there is not yet a dominant paradigm for pricing data or a consensus about what the relevant valuation factors are. What’s more, technical methods should be guided by fundamental economics and legal requirements. 
+This workshop aspires to bring together researchers from the fields (and subfields) of 
+
+- Machine learning and computer science
+- Privacy-preserving machine learning methods
+- Federated learning
+- Data sharing infrastructure
+- Economics (and other social sciences)
+- Information economics
+- Data labor
+- Crowdsourcing
+- Pricing of machine learning models
+- Law and policy
+- legal and ethical implications of data trading
+- AI ethics
+- Data and intellectual property
+
+## Similar Workshops ##
+
+- [Economics of Privacy and Data Labor (ICML 2020)](https://icml.cc/virtual/2020/workshop/5723)
+- [Workshop on Federated Learning for Data Privacy and Confidentiality](https://nips.cc/Conferences/2019/Schedule?showEvent=13202)
+- [Privacy in Machine Learning and Artificial Intelligence](https://pimlai.github.io/pimlai18/)
+- [Workshop on learning in the Presence of Strategic Behavior (NeurIPS 2017, EC/COLT 2019)](https://sites.google.com/view/eclearning2019/)
+- [Workshop on data science for data marketplaces](https://sites.google.com/view/dsdm2022/home)
+
 
 ## Schedule ##
 
@@ -27,11 +52,13 @@ Time (EST)  | Title  | Presenter | Slides | Video |
 
 **Important Dates**
 
-Paper submission deadline: June ~~5th~~ 12th 2020, 11:59 PM (AoE, UTC-12)
+Paper submission deadline: Sep 22, 2022, 11:59 PM (AoE, UTC-12)
 
-Acceptance notification: July 1st 2020, EOD
+Acceptance notification:Oct 20, 2022, AoE
 
-Workshop: July 18th, 2020 (EST time zone)
+Mandatory SlidesLive upload for speaker videos:  Nov 03, 2022, AoE
+
+Workshop: December 2nd, 2022 (CST time zone)
  
 **Topics of interest** 
 
@@ -46,23 +73,20 @@ Workshop: July 18th, 2020 (EST time zone)
 
 **Submission Guidelines**
 
-You are invited to submit papers of up to six pages. You have unlimitted space for references. If you you want to submit a longer paper, we ask that they write a 2-6 page summary and submit it, along with an attachment or link to the full paper.  To be considered, papers must be received by the submission deadline (see Important Dates). Submissions must be original work and may be under submission to another venue at the time of review. Authors are encouraged to use the ICML 2020 style guidelines as described [here](https://icml.cc/Conferences/2020/StyleAuthorInstructions), but they are free to use other formats.. 
+You are invited to submit papers of up to six pages. You have unlimitted space for references. If you you want to submit a longer paper, we ask that they write a 2-6 page summary and submit it, along with an attachment or link to the full paper.  To be considered, papers must be received by the submission deadline (see Important Dates). Submissions must be original work and may be under submission to another venue at the time of review. Authors are encouraged to use the NeurIPS 2022 style guidelines as described [here](https://neurips.cc/Conferences/2022/PaperInformation/StyleFiles), but they are free to use other formats.
 
 **Submission Site**
 
-Submission link: [https://easychair.org/conferences/?conf=ecopadl2020](https://easychair.org/conferences/?conf=ecopadl2020)
+Submission link: [TBD](TBD)
 
-All questions about submissions should be emailed to [ecopadl2020@googlegroups.com](mailto:ecopadl2020@googlegroups.com)
+All questions about submissions should be emailed to [ecopadl2022@googlegroups.com](mailto:ecopadl2022@googlegroups.com)
 
 
 ### Organizers ####
 - [Nikolaos Vasiloglou](https://www.linkedin.com/in/vasiloglou) (relationalAI)
-- [Rachel Cummings](https://pwp.gatech.edu/rachel-cummings/) 	(Georgia Tech)
-- [Glen Weyl](http://glenweyl.com/)	(Microsoft & RadicalXChange)
-- [Paris Koutris](http://pages.cs.wisc.edu/~paris/)  (University of Wisconsin)  		
-- [Meg Young](https://ischool.uw.edu/people/phd/profile/megyoung)	(University of Washington)
-- [Ruoxi Jia](https://ruoxijia.github.io/) (UC Berkeley)
-- [David Dao](https://daviddao.org/) (ETH Zurich)	
-- [Bo Waggoner](https://www.bowaggoner.com/)	(University of Colorado)	
-
+- [Xiaohui Yu]](http://www.yorku.ca/xhyu) 	(York Univesity)
+- [Jian Pei](https://www.cs.sfu.ca/~jpei)	(Simon Fraser University)
+- [Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/)  (Peking University)  		
+- [Hanlin Li](https://sites.northwestern.edu/lihanlin/)	(Northwestern University)
+- [Aileen Nielsen](https://lawecon.ethz.ch/group/scientific-team/nielsen.html) (ETH)
 
